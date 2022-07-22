@@ -1,0 +1,11 @@
+@import "./src/helper/_colors.scss";
+
+footer{
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  background-color: $galaxy-background-dark-02;
+  font-size: 1.4rem;
+}
